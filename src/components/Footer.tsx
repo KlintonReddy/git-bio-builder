@@ -54,10 +54,10 @@ export const Footer = () => {
 
         <div className="border-t border-border/50 mt-8 pt-8 text-center text-muted-foreground">
           <p className="flex items-center justify-center gap-2">
-            Made with <Heart size={16} className="text-red-500 animate-pulse" /> by Klinton Reddy K
+            Crafted with <Heart size={16} className="text-red-500 animate-pulse" /> by Klinton Reddy K
           </p>
           <p className="mt-2 text-sm">
-            © {new Date().getFullYear()} All rights reserved.
+            © {new Date().getFullYear()} Klinton Reddy K. All rights reserved.
           </p>
         </div>
       </div>
