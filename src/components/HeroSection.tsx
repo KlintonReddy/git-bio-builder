@@ -66,7 +66,7 @@ export const HeroSection = () => {
 
           {/* Tech Stack Badges */}
           <div className="flex flex-wrap justify-center gap-2 mb-8">
-            {["Python", "Java", "C", "IoT", "Machine Learning", "DevOps", "Git"].map((tech) => (
+            {["Python", "C", "IoT", "Machine Learning", "DevOps", "Git"].map((tech) => (
               <Badge key={tech} variant="secondary" className="px-3 py-1 text-sm font-medium">
                 {tech}
               </Badge>

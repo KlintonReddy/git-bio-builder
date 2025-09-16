@@ -6,7 +6,7 @@ const skillCategories = [
   {
     title: "Programming Languages",
     icon: Code,
-    skills: ["Python", "C", "Java (Basics)", "SQL (Basics)"],
+    skills: ["Python", "C", "SQL (Basics)"],
     color: "primary"
   },
   {
